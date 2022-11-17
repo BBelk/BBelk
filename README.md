@@ -7,8 +7,8 @@ Web And Game Developer
 Self taught game dev, newly acquired certificate in Full Stack Web Dev from UNC Charlotte coding bootcamp.
 
 * 🌍  I'm based in Raleigh, NC
-* 🖥️  See my portfolio at [My Portfolio](http://BruceBelk.com)
-* ✉️  You can contact me at [contact@brucebelk.com](mailto:contact@brucebelk.com)
+* 🖥️  See my portfolio [here](https://bbelk.github.io/Portfolio/)
+* ✉️  You can contact me at [belkbh@gmail.com](mailto:belkbh@gmail.com)
 
 ### Skills
 
