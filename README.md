@@ -1,13 +1,11 @@
 Bruce Belk
 ===========================
 
-Web And Game Developer
+Game/Unity/Web Developer
 ----------------------
-
-Self taught game dev, newly acquired certificate in Full Stack Web Dev from UNC Charlotte coding bootcamp.
-
+Making cool stuff.
+ 
 * 🌍  I'm based in Raleigh, NC
-* 🖥️  See my portfolio [here](https://bbelk.github.io/Portfolio/)
 * ✉️  You can contact me at [belkbh@gmail.com](mailto:belkbh@gmail.com)
 
 ### Skills
