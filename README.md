@@ -1,9 +1,8 @@
 Bruce Belk
 ===========================
-
-Python/Unity/Web dev
+Problem finder, occasional problem solver
 ----------------------
-Making cool stuff.
+Making cool stuff with Python, Unity, JS, and more!
  
 * 🌍  I'm based in Winston-Salem, NC
 * ✉️  You can contact me at [belkbh@gmail.com](mailto:belkbh@gmail.com)
