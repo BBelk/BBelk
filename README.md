@@ -1,6 +1,6 @@
 Bruce Belk
 ===========================
-Problem finder, occasional problem solver
+Working on a neat chrome extension right now!
 ----------------------
 Making cool stuff with Python, Unity, JS, and more!
  
