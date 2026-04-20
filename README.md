@@ -1,6 +1,6 @@
 Bruce Belk
 ===========================
-Working on a neat chrome extension right now!
+Currently making a little tool for creating time lapses
 ----------------------
 Making cool stuff with Python, Unity, JS, and more!
  
