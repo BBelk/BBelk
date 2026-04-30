@@ -2,12 +2,12 @@ Bruce Belk
 ===========================
 Currently making a little tool for creating time lapses
 ----------------------
-Making cool stuff with Python, Unity, JS, and more!
+Full-stack tinkerer with a soft spot for Python, Unity, and OpenCV.
  
-* 🌍  I'm based in Winston-Salem, NC
-* ✉️  You can contact me at [belkbh@gmail.com](mailto:belkbh@gmail.com)
-
+* 🌍  I'm based in Winston-Salem, NC
+* 🦛 See some select projects on my personal site: [Bruce Belk](https://brucebelk.com/)
+* ✉️  You can contact me at [belkbh@gmail.com](mailto:belkbh@gmail.com)
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/BBelk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bruce-belk-28716769/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/BBelk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruce-belk-28716769/)
